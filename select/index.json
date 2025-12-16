@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "四季刻歌",
+  "base_artist": "綿飴（Wataame）",
+  "createdAt": "2025-12-16T08:00:58.868491Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "四季刻歌",
+      "artist": "綿飴",
+      "has_synced": false,
+      "path": "select/pl_01_四季刻歌_綿飴.txt"
+    }
+  ]
+}
